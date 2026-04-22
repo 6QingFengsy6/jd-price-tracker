@@ -16,6 +16,15 @@ Python + Selenium 实现的京东价格监控工具，价格低于目标价时�
 - Edge WebDriver
 - Server酱（微信推送）
 
+## 环境要求
+
+- Windows 10/11
+- Python 3.7+
+- Edge 浏览器 (Chromium内核)
+
+> 需要下载与你的 Edge 浏览器版本匹配的 **Edge WebDriver**，并将其放入项目根目录。
+> 下载地址：[Microsoft Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/)
+
 ## 快速开始
 
 1. 安装依赖：pip install selenium requests
